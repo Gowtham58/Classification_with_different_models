@@ -1,6 +1,6 @@
 # Classification_with_Different_ML_models
 ## PROBLEM STATEMENT:
-To classify the three different classes of iris flowers from the given dataset
+To classify the three different classes of iris flowers from the given IRIS dataset
 
 ## DATA_SET USED:
 >[IRIS_DATASET](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/)
