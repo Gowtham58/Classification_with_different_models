@@ -24,4 +24,4 @@ To classify the three different classes of iris flowers from the given dataset
 ![](Code/imgs/dtcm.png)
 
 ## Decision Tree Classifier Visualization:
-![](Code/imgs/dttree.png)
+![](Code/imgs/dtree.png)
